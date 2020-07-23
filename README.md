@@ -14,7 +14,7 @@ This is a ReactJS application which displays the list of all the emojis along wi
 ## How to run this code
 
 - Clone the github repo
-  > `git clone`
+  > `git clone https://github.com/praaatik/emojipedia`
 - Switch to the directory of the project
   > `cd emojipedia`
 - Install all the packages from `packages.json`
