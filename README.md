@@ -18,9 +18,9 @@ This is a ReactJS application which displays the list of all the emojis along wi
 - Switch to the directory of the project
   > `cd emojipedia`
 - Install all the packages from `packages.json`
-  > npm install
+  > `npm install`
 - Run the site by
-  > npm start
+  > `npm start`
 
 ## Addendum
 
